@@ -5,29 +5,12 @@
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
 Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
-
-If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Discord](https://discord.gg/Tu2VynkRWV) server.
-
-### Chapters
-
-Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
-
-All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-### Past Presentations
-
-Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) channel for videos and video playlists.
-
 ## Info
-
-We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 
 ### Other Good Places to Find Papers
 
-* [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 * [arXiv Paper Repository](http://arxiv.org/)
-* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [cat-v.org](http://doc.cat-v.org/)
 * [eugeneyan/applied-ml GitHub repository](https://github.com/eugeneyan/applied-ml)
@@ -79,8 +62,3 @@ See [README.md](./scripts/README.md) for more options.
 
 ## Contributing Guidelines
 
-Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
-
-## Copyright
-
-The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
